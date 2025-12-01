@@ -33,7 +33,8 @@
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
-    "dev-install": "npm run compile && npx vsce package --out toml-format.vsix && code --install-extension toml-format.vsix"
+    "code-install": "npm run compile && npx vsce package --out toml-format.vsix && code --install-extension toml-format.vsix",
+    "ant-install": "npm run compile && npx vsce package --out toml-format.vsix && Antigravity --install-extension toml-format.vsix"
   },
   "devDependencies": {
     "@types/vscode": "^1.80.0",
