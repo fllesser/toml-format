@@ -3,6 +3,7 @@
   "displayName": "TOML Format",
   "description": "TOML formatter and linter using taplo",
   "version": "0.0.1",
+  "publisher": "fllesser",
   "author": {"name": "fllesser", "email": "fllessive@gmail.com"},
   "repository": "https://github.com/fllesser/toml-format",
   "engines": {
