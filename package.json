@@ -2,7 +2,7 @@
   "name": "toml-format",
   "displayName": "TOML Formatter",
   "description": "TOML formatter and linter using taplo",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "fllesser",
   "author": {
     "name": "fllesser",
