@@ -9,8 +9,14 @@ A simple VS Code extension that uses the system's `taplo` for formatting TOML fi
 
 ## Installation
 
+cargo
+
+```
 cargo install taplo-cli
+```
 
-/
+mise
 
+```
 mise use --global taplo
+```
