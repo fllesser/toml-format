@@ -1,6 +1,6 @@
 {
   "name": "toml-format",
-  "displayName": "TOML Format",
+  "displayName": "TOML Formatter",
   "description": "TOML formatter and linter using taplo",
   "version": "0.0.2",
   "publisher": "fllesser",
@@ -9,7 +9,7 @@
     "email": "fllessive@gmail.com"
   },
   "icon": "images/icon.png",
-  "repository": "https://github.com/fllesser/toml-format",
+  "repository": "https://github.com/les-vsc-ext/toml-format",
   "engines": {
     "vscode": "^1.80.0"
   },
